@@ -8,3 +8,30 @@
 shredder47/shredder47 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+SKILLS:
+
+Languages
+![image](https://github.com/shredder47/shredder47/assets/34438348/4f6c8897-42ad-48d3-81a3-ed9fa8d57ffb)
+
+
+Back-End Development
+Spring Boot
+
+Front-End Development
+Angular html css bootstrap Figma
+
+Database
+mysql Oracle
+
+Version Control
+Git GitHub
+
+Deployed on
+AWS Google Cloud Heroku Netlify
+
+Testing
+JUnit Jupiter Mockito
+
+Platform
+Ubuntu Windows
